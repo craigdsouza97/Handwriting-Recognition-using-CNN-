@@ -1,8 +1,12 @@
-This is a Convolutional Neural Network that has been trained using the Emnist_Balanced Dataset to recognise Handwritten Characters and has an accuracy of 89%.
+# Description
+This is a Convolutional Neural Network with 28 Convolutional Layers that has been trained using the Emnist_Balanced Dataset to recognise Handwritten Characters and has an accuracy of 89%.
+
+# Usage
 To use the pre-trained model simply load the model present in the folder Model or use Main.py to use it as an api
 It requires a normal Handwrtten Document with a plain background as input.
 preprocessing.py will then perform preprocessing as well as segment the image for character recognition.
-The following is required to run the code:
+
+# Requirements
 python 3.6
 tensorflow
 keras
