@@ -7,8 +7,8 @@ It requires a normal Handwrtten Document with a plain background as input.
 preprocessing.py will then perform preprocessing as well as segment the image for character recognition.
 
 # Requirements
-python 3.6
-tensorflow
-keras
-opencv 4.0
-Emnist_Balanced Dataset which can be downloaded from https://www.nist.gov/node/1298471/emnist-dataset or https://www.kaggle.com/crawford/emnist and must be added to the folder Train
+- python 3.6
+- tensorflow
+- keras
+- opencv 4.0
+- Emnist_Balanced Dataset which can be downloaded from https://www.nist.gov/node/1298471/emnist-dataset or https://www.kaggle.com/crawford/emnist and must be added to the folder Train
